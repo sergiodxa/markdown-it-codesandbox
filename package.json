@@ -1,0 +1,25 @@
+{
+  "name": "markdown-it-codesandbox",
+  "version": "1.0.0",
+  "description": "markdown-it plugin to embed CodeSandbox editor.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiodxa/markdown-it-codesandbox.git"
+  },
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin",
+    "markdown",
+    "codesandbox"
+  ],
+  "author": "Sergio Daniel Xalambrí <sergiodxa@gmail.com> (https://sergio.now.sh/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiodxa/markdown-it-codesandbox/issues"
+  },
+  "homepage": "https://github.com/sergiodxa/markdown-it-codesandbox#readme",
+  "dependencies": {
+    "markdown-it-regexp": "^0.4.0"
+  }
+}
